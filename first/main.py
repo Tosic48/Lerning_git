@@ -1,3 +1,5 @@
-from first.git import plus
-if __name__ == "main":
-  print(plus(3,3))
+from git import plus
+
+if __name__ == '__main__':
+    print(plus(3, 3))
+    print('Hello')
